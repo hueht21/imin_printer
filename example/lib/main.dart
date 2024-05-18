@@ -1,4 +1,3 @@
-// import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:imin_printer/imin_printer.dart';
 import 'package:imin_printer_example/pages/v2/home.dart';
